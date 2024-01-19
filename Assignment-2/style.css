@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: black;
+    background-color: palevioletred;
+}
+
+li {
+    background-color: lightgoldenrodyellow;
+    color: green;
+}
+
+#p {
+    color: yellow;
+    background-color: white;
+    font-size: 30px;
+}
+
+p {
+    color: red;
+}
